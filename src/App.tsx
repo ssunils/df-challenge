@@ -14,7 +14,7 @@ function App() {
   return (
     <div className='App'>
       <Dropdown onSelect={handleSelect}>
-        <DropdownTrigger>Right click</DropdownTrigger>
+        <DropdownTrigger>Right click Anywhere</DropdownTrigger>
         <DropdownMenu>
           <DropDownItem
             label='Open Panel'
