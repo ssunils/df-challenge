@@ -35,7 +35,7 @@ Dropdown/
 ├── DropdownTrigger.tsx   
 ├── DropdownMenu.tsx      
 ├── DropdownItem.tsx      
-├── Submenu.tsx           
+├── DropdownSubmenu.tsx           
 ├── index.ts              
 ```
 
